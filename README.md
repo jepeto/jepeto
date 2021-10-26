@@ -45,6 +45,10 @@
 
 [![Chris's github activity graph](https://activity-graph.herokuapp.com/graph?username=jepeto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+| ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=jepeto&show_icons=true&theme=tokyonight) | ![Chris GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jepeto&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepeto&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jepeto&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
